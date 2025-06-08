@@ -1,0 +1,48 @@
+h1{
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+
+    /* border-width: 3px;
+    border-style: dotted;
+    border-color: red; */
+
+    border-radius: 100px;
+
+    border: 3px solid brown;
+
+}
+
+div{
+height: 100px;
+    width: 100px;
+    background-color: rgba(255, 0, 0, 0.3);
+    text-align: center;
+
+    /* border-width: 5px;
+    border-style: double;
+    border-color: purple; */
+
+    border: 5px double purple;
+
+    border-radius: 10px;
+
+    display: inline-block;
+}
+
+#div1{
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+#div2{
+    background-color: cornflowerblue;
+    padding: 14px 2px 0px 15px; /* top right bottom left */
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+button{
+    display: block;
+    margin-top: 10px;
+}
